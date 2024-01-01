@@ -4,9 +4,9 @@ document.addEventListener('DOMContentLoaded', function () {
     // Change menu style on scroll
     window.addEventListener('scroll', function () {
       if (window.scrollY > 50) {
-        header.style.backgroundColor = '#555';
+        header.style.backgroundColor = '#044911';
       } else {
-        header.style.backgroundColor = '#333';
+        header.style.backgroundColor = '#0da27d';
       }
     });
   });
